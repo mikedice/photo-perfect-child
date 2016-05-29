@@ -1,0 +1,42 @@
+/*
+ Theme Name:   Photo Perfect Child
+ Theme URI:    http://in-the-frontrow.com
+ Description:  Photo Perfect Child theme
+ Author:       Mike Dice & Hailey Dice
+ Author URI:   http://in-the-frontrow.com
+ Template:     photo-perfect
+ Version:      1.0.0
+ License:      GNU General Public License v2 or later
+ License URI:  http://www.gnu.org/licenses/gpl-2.0.html
+ Tags:         light, dark, two-columns, right-sidebar, responsive-layout, accessibility-ready
+ Text Domain:  photo-perfect-child
+*/
+
+.article-list-entry{
+    display:inline-block;
+    width:320px;
+    height: 250px;
+    overflow:hidden;
+    text-align:center;
+    margin:8px;
+    border: 1px solid darkgray
+}
+.article-list-entry header{
+    height:100%;
+}
+.article-list-entry h2{
+    height:30%;
+    margin: 0;
+    padding: 8px;
+}
+
+.article-list-entry a{
+    height:70%;
+    display:block;
+}
+.article-list-entry a img{
+    width: 100%;
+}
+.content-area{
+    text-align:center; 
+}
