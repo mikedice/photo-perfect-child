@@ -12,6 +12,12 @@
  Text Domain:  photo-perfect-child
 */
 
+p {
+    color: #444444;
+    font-size: 20px;
+    margin: 0 0 15px;
+}
+
 .article-list-entry{
     display:inline-block;
     width:320px;
